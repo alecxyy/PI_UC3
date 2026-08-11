@@ -1,0 +1,24 @@
+# tELAS DO PROJETO INTEGRADOR
+SOMOS O GRUPO AMARELO:
+- GUILHERME CALANDRIM FAVERO
+- ALEX MARTINS
+- GUSTAVO
+
+ESTAS SÃO AS TELAS DO PROJETO INTEGRADOR DO GRUPO VERDE
+
+
+GRUPO VERDE:
+- Ingrid
+- Julia
+- Mayza
+- Rafael
+
+
+
+## DIVISÃO DE TAREFAS
+
+- GUSTAVO: LOGIN/CRIAÇÃO DE USUÁRIO 
+- Alex: tela de usuario e tela de planos
+- tela de batalha, tela inicial e tela de personagen universo
+
+- SE POSSIVEL TELA DE COMENTARIOS TEORIAS E OS COMENTARIOS NA DE BATALHA
