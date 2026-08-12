@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastrar Usuário</title>
+    <link rel="stylesheet" href="auth.css">
+</head>
+<body>
+    <div class="auth-container">
+        <div class="auth-card">
+            <h1>Cadastrar Usuário</h1>
+            <form action="PERFIL.html" method="GET">
+                <div class="input-row">
+                    <input type="text" name="login" placeholder="Nome de usuário ou E-mail" required>
+                    <input type="text" onfocus="(this.type='date')" onblur="(this.type='text')" name="data_nascimento" placeholder="Data de nascimento" required>
+                </div>
+                <input type="email" name="email" placeholder="E-mail" required>
+                <input type="password" name="senha" placeholder="Senha" required>
+                <input type="password" name="confirmar_senha" placeholder="Confirmar senha" required>
+                 </form>
+                 
+                  <div class="auth-buttons">
+        <a href="PERFIL.html" class="btn">Continuar</a>
+        <a href="login.html" class="btn">Já tenho uma conta?</a>
+        </div>
+           
+        </div>
+      
+    </div>
+</body>
+</html>
