@@ -68,16 +68,18 @@ body {
 
     text-align: center;
     justify-self: center;
-    width: 710px;
-    height: 410px;
+    width: 580px;
+   
 }
 
 .card h1 {
 
     font-size: 35px;
     font-weight: bold;
-    padding-top: 10px;
-    padding-bottom: 5px;
+    padding-top: 5px;
+   
+   
+    
 }
 
 .card form div {
@@ -86,25 +88,27 @@ body {
     /* Fundo cinza escuro */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 26px;
 
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 18px;
 
 }
 
 
 .card span {
+    margin-top: -8px;
     justify-content: center;
     display: flex;
     gap: 15px;
 }
 
 .card input {
-    padding: 15px;
+    margin-top: -8px;
+    padding: 16px;
     border: none;
     text-align: center;    /* placeholder centralizado */
     font-size: 14px;
@@ -116,10 +120,11 @@ body {
 }
 
 
+
 .btn {
-    margin: 30px;
-    padding: 20px 50px;
-    font-size: 13px;
+    margin-top: 40px;
+    padding: 15px 30px;
+    font-size: 15px;
     font-weight: bold;
     text-align: center;
     align-items: center;
@@ -134,7 +139,9 @@ body {
 
 }
 
-
+.btn button{
+    font-size: 30px;
+}
 /*cor de animação */
 .btn:hover {
     background-color: #444444;
